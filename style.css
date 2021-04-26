@@ -1,0 +1,42 @@
+
+
+img{
+    margin: auto;
+    width: 40%;
+    display: block;
+}
+body{
+    background-color:red;
+}
+#container{
+    margin: auto 0;
+    text-align: center;
+    font-size: 0px;
+    
+}
+
+
+
+
+#container div {
+    display: inline-block;
+    
+    width: 4px;
+    height: 4px;
+    border: solid black;
+    background-color: silver;
+    
+}
+
+
+
+button{
+    font-size: large;
+}
+
+
+p{
+    font-size: xx-small;
+}
+
+
